@@ -6,4 +6,4 @@ def saludarPersona(nombre):
 
 # Llamo la función
 saludarPersona("Sara")
-print(saludarPersona("Sara"))
+# print(saludarPersona("Sara"))
